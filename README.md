@@ -16,24 +16,20 @@ Snap Tap Input will automatically realse the 'd' button for you, which leads to 
 
 ## How to use / extract 
 
-  1. Download the .zip folder from the 'Download' section.
+  1. Download the **Snap-Tap_Input.exe** file from the 'Download' / 'Releases' section.
 
-     -> its saved under 'Downloads'
-
-  3. exctrat the folder by right clicking it and choosing the option 'Extract All...'
-
-     -> further explanation [here](https://www.wikihow.com/Unzip-a-File)
+  2. Open the Download folder
                                                 
-  4. Open the **Main.exe** file
+  3. Open the **Snap-Tap-Input.exe** file
 
-  5.   press 'Start' to start the programm.
+  4.   press 'Start' to start the programm.
       
        press 'Stopp' to stop the programm.
 
 
        ![preview](read-me-files/preview.PNG)
   
-  7. CLose the window afterwards. 
+  5. CLose the window afterwards. 
 
 ## License 
 
