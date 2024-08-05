@@ -7,6 +7,8 @@ It can be used in EVERY GAME, which uses movening to the left and right with eit
 
 ## Download
 
+avalible this evening (GMT +2)
+
 ## Example
 
 Normally, pressing 'a', while the button 'd' is pressed, the character would stand still. 
