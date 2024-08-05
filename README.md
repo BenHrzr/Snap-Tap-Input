@@ -28,7 +28,7 @@ Snap Tap Input will automatically realse the 'd' button for you, which leads to 
        press 'Stopp' to stop the programm.
 
 
-       ![preview](read-me-files/preview.png)
+       ![preview](read-me-files/preview.PNG)
   
   7. CLose the window afterwards. 
 
