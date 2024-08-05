@@ -1,4 +1,4 @@
-# Snap-Tap-Input <img align="right" src="read-me-files/preview.PNG">
+# Snap-Tap-Input <img align="right" src="read-me-files/preview_kurz.PNG">
 A python based software, including a GUI, based on Razers Snap-Tap keyboard, but with the goal to make it accessible for all keyboards. 
 
 
