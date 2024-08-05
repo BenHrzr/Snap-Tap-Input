@@ -32,3 +32,7 @@ Snap Tap Input will automatically realse the 'd' button for you, which leads to 
 ## License 
 
 all rights reserved.
+
+## Update Log
+
+  04.08.24 -> Added the first version
