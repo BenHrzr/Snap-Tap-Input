@@ -27,6 +27,7 @@ Snap Tap Input will automatically realse the 'd' button for you, which leads to 
   4. Open the **Main.exe** file
 
   5.   press 'Start' to start the programm.
+      
        press 'Stopp' to stop the programm.
 
 
