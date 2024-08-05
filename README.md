@@ -25,7 +25,7 @@ Snap Tap Input will automatically realse the 'd' button for you, which leads to 
 
   4.   press 'Start' to start the programm.
   5.   
-       press 'Stopp' to stop the programm.
+       press 'Stopp' to stop the programm. (Stopp is german for stop)
 
 
        ![preview](read-me-files/preview.PNG)
