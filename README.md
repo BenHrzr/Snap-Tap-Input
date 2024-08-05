@@ -24,13 +24,13 @@ Snap Tap Input will automatically realse the 'd' button for you, which leads to 
   3. Open the **Snap-Tap-Input.exe** file
 
   4.   press 'Start' to start the programm.
-  5.   
+     
        press 'Stopp' to stop the programm. (stopp is german for stop)
 
 
        ![preview](read-me-files/preview.PNG)
   
-  6. CLose the window afterwards. 
+  5. CLose the window afterwards. 
 
 ## License 
 
