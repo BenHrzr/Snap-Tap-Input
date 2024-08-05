@@ -26,7 +26,7 @@ Snap Tap Input will automatically realse the 'd' button for you, which leads to 
 
   5.   press 'Start' to start the programm.
        press 'Stopp' to stop the programm.
-       ![preview]()
+       ![preview](read-me-files/preview)
 
   7. CLose the window afterwards. 
 
