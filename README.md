@@ -7,7 +7,7 @@ It can be used in EVERY GAME, which uses movening to the left and right with eit
 
 ## Download
 
-avalible this evening (GMT +2)
+**[Download Snap-Tap-Input for all keyboards](https://github.com/BenHrzr/Snap-Tap-Input/releases)**
 
 ## Example
 
