@@ -25,12 +25,12 @@ Snap Tap Input will automatically realse the 'd' button for you, which leads to 
 
   4.   press 'Start' to start the programm.
      
-       press 'Stopp' to stop the programm. (stopp is german for stop)
+       press 'Stop' to stop the programm. 
 
 
-       ![preview](read-me-files/preview.PNG)
+       ![preview](read-me-files/preview_v.1.1.PNG)
   
-  5. CLose the window afterwards. 
+  5. Close the window afterwards. 
 
 ## License 
 
@@ -38,4 +38,6 @@ all rights reserved.
 
 ## Update Log
 
-  04.08.24 -> Added the first version
+  17.08.24 -> Added V.1.1 (see releases page for more information)
+  
+  04.08.24 -> Added the first version (V.1.0)
