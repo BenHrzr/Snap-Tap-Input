@@ -1,10 +1,10 @@
-# Snap-Tap-Input <img align="right" src="read-me-files/preview_kurz.PNG">
+# Snap-Tap-Input (auto release) <img align="right" src="read-me-files/preview_kurz.PNG">
 A python based software, including a GUI, based on Razers Snap-Tap keyboard, but with the goal to make it accessible for all keyboards. 
 
 Snap Tap Input is a free to use, public displayed alternative for every keyboard, which doesnt interact with any game data. 
-Moreover it is a simnple programm, which doesnt intervene with your deviuces performance. 
+Moreover it is a simnple programm, which doesnt intervene with your devices performance. 
 
-It can be used in EVERY GAME, which uses movening to the left and right with either 'a' and 'd' or 'left arrow' and 'right arrow'.
+It can be used in *EVERY GAME*, which uses movening to the left and right with either 'a' and 'd' or 'left arrow' and 'right arrow'.
 
 ## Download
 
