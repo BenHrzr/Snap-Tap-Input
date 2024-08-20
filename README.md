@@ -43,6 +43,8 @@ all rights reserved.
 
 ## Update Log
 
+  20.08.24 -> Added V.1.2 (see releases page for more information)
+
   17.08.24 -> Added V.1.1 (see releases page for more information)
   
   04.08.24 -> Added the first version (V.1.0)
