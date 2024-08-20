@@ -111,12 +111,3 @@ window.mainloop()
 #v1.2
 
 #changed design
-
-
-
-## To Do
-
-# 1. versions namen hinzufügen
-#2. Einstellungsknopf
-#3. im hintergrund laufen lassen
-#4. Knopf abrunden
